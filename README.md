@@ -1,61 +1,66 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Alejandro Pérez — Full Stack Developer. Web, mobile and cloud." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Alejandro Pérez · Full Stack Developer · Web, mobile and cloud · Colombia" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/alejandro-perez.png" alt="Alejandro Pérez" width="144" height="144" />
+  <a href="https://www.linkedin.com/in/alejandroperezgranado/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hola@alejoperez.dev"><strong>Get in touch ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.crezka.top"><strong>Explore Crezka ↗</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandroperezgranado/">LinkedIn</a> ·
-  <a href="mailto:hola@alejoperez.dev">Email</a> ·
-  <a href="https://www.crezka.top">Crezka</a>
-</p>
+<br />
 
-I'm a **Full Stack Developer based in Colombia**, with **8+ years of experience** building web applications, mobile apps and SaaS platforms across fintech, e-commerce and digital assets.
+I build **web applications, mobile apps and SaaS platforms**, with **8+ years of experience** across fintech, e-commerce and digital assets. My work connects interfaces, backend services and cloud infrastructure — from implementing a feature to integrating the services behind it.
 
-I work across the stack: interfaces, APIs, service integrations, asynchronous messaging and cloud deployments. I also build my own products, where I turn business workflows into software people can use.
+I also build my own products, turning everyday business workflows into useful software.
 
-### What I work on
-
-- **Web and mobile:** React, Next.js, Angular and Flutter applications, from customer experiences to operational dashboards.
-- **Backend and integrations:** Node.js, NestJS and Laravel services, APIs, webhooks and event-driven communication with Pub/Sub, RabbitMQ and Redis.
-- **Cloud and delivery:** AWS, GCP, CI/CD, service diagnostics and application maintenance.
-- **Applied AI:** integrating OpenAI, Gemini and Claude into product workflows.
+<br />
 
 ### Products I'm building
 
-**[Crezka](https://www.crezka.top)**  
-A business platform bringing together WhatsApp automation, AI assistance, online stores and point-of-sale workflows. My work spans a Next.js dashboard, backend services, background workers, real-time communication and companion Flutter apps.
+<p>
+  <a href="https://www.crezka.top"><img src="assets/crezka.svg" alt="Crezka: a business platform for WhatsApp automation, AI and commerce. Next.js, Node.js and Flutter." width="49%" /></a>
+  <a href="https://github.com/alejandr0pg/takeyourpills-legal"><img src="assets/take-your-pills.svg" alt="Take Your Pills: a Flutter medication reminder app with local notifications. Link to public support and privacy information." width="49%" /></a>
+</p>
 
-**Take Your Pills**  
-A Flutter medication reminder app that turns prescription schedules into dose reminders. Built around DDD and Clean Architecture, with local persistence, notification scheduling and Spanish prescription parsing. [Public support and privacy information →](https://github.com/alejandr0pg/takeyourpills-legal)
+**Crezka** brings together WhatsApp automation, AI assistance, online stores and point-of-sale workflows. I work across the dashboard, services, workers, real-time communication and companion apps.
 
-### Selected public projects
+**Take Your Pills** turns prescription schedules into dose reminders, using local persistence, notification scheduling and Spanish prescription parsing. Its card links to public support and privacy information.
 
-| Project | What you can explore | Stack |
-| :--- | :--- | :--- |
-| **[Incident & Status Portal](https://github.com/alejandr0pg/incident-status-portal)** | Incident management, audit logs, a public status API and infrastructure as code. | NestJS · Next.js · PostgreSQL · AWS CDK · ECS/Fargate |
-| **[Shorty URL](https://github.com/alejandr0pg/shorty-url-laravel)** · [Frontend](https://github.com/alejandr0pg/shorty-url-react) | A URL shortener with a separate API and frontend, Docker setup and deployment documentation. | Laravel · React · TypeScript · AWS · GitHub Actions |
-| **[ng-table-pg](https://github.com/alejandr0pg/ng-table-pg)** | A reusable Angular table with filtering, sorting, pagination, row reordering, exports and internationalization. | Angular · TypeScript · Angular CDK |
+<br />
 
-### Technical toolkit
+### A few things you can explore
 
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | TypeScript, JavaScript, React, Next.js, Angular |
-| Mobile | Flutter, Dart, React Native, Ionic |
-| Backend | Node.js, NestJS, Express, PHP, Laravel |
-| Data and messaging | PostgreSQL, MySQL, SQL Server, MongoDB, Firebase, Redis, RabbitMQ, GCP Pub/Sub |
-| Cloud and architecture | AWS, GCP, Docker, CI/CD, microservices, hexagonal architecture, DDD, Clean Architecture |
-| Supporting tools | Python scripts for integrations and maintenance; SQL queries for data inspection |
+<a href="https://github.com/alejandr0pg/incident-status-portal"><img src="assets/incident-portal.svg" alt="Incident and Status Portal: NestJS, Next.js, PostgreSQL and AWS infrastructure as code." width="100%" /></a>
 
-### Experience
+<a href="https://github.com/alejandr0pg/shorty-url-laravel"><img src="assets/shorty-url.svg" alt="Shorty URL: Laravel API, React frontend and AWS deployment workflows." width="100%" /></a>
 
-I've worked on fintech web and mobile services at **Vurelo**, SaaS and delivery pipelines at **Futswap**, and service integrations at **Intech Chain**. Earlier, I built web and mobile interfaces at **Rankmi** and **Tuten Labs**. I've also worked independently on CRM, ERP, content management and geolocation systems.
+<p align="right"><a href="https://github.com/alejandr0pg/shorty-url-react">Explore the Shorty React frontend ↗</a></p>
 
-For my full work history, visit [LinkedIn](https://www.linkedin.com/in/alejandroperezgranado/).
+<a href="https://github.com/alejandr0pg/ng-table-pg"><img src="assets/ng-table.svg" alt="ng-table-pg: a reusable Angular table library with filtering, sorting, exports and internationalization." width="100%" /></a>
 
----
+<br />
 
-**Let's connect:** [hola@alejoperez.dev](mailto:hola@alejoperez.dev)
+### Tools behind the work
+
+<img src="assets/toolkit.svg" alt="Interfaces: TypeScript, React, Next.js, Angular, Flutter. Services: Node.js, NestJS, Express, PHP, Laravel. Data and events: PostgreSQL, MySQL, Firebase, Redis, RabbitMQ. Cloud and support: AWS, GCP, Docker, Python, SQL." width="100%" />
+
+**How I work:** APIs and webhooks, event-driven services, microservices, DDD, Clean Architecture and CI/CD. I use **Python** for integration and maintenance scripts, and **SQL** to query and inspect data. My cloud experience includes **AWS**, **GCP** and **Pub/Sub**.
+
+<details>
+  <summary><strong>A little more about my experience</strong></summary>
+  <br />
+
+I've worked on fintech web and mobile services at **Vurelo**, SaaS platforms and delivery pipelines at **Futswap**, and integrations at **Intech Chain**. Earlier, I built web and mobile interfaces at **Rankmi** and **Tuten Labs**.
+
+My independent work includes CRM, ERP, content management, geolocation systems and AI integrations with OpenAI, Gemini and Claude.
+
+[Full work history on LinkedIn ↗](https://www.linkedin.com/in/alejandroperezgranado/)
+
+</details>
+
+<br />
+
+<a href="mailto:hola@alejoperez.dev"><img src="assets/contact.svg" alt="Have a project in mind? Let's build something useful. Email hola@alejoperez.dev." width="100%" /></a>
