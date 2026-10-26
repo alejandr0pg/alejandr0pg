@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.crezka.top"><img src="assets/featured-crezka.svg" alt="Crezka — WhatsApp, AI and commerce. Next.js, Node.js and Flutter." width="32%" /></a>
-  <a href="https://github.com/alejandr0pg/takeyourpills-legal"><img src="assets/featured-pills.svg" alt="Take Your Pills — Flutter medication reminders. Public support and privacy information." width="32%" /></a>
+  <a href="https://takeyourpills.app"><img src="assets/featured-pills.svg" alt="Take Your Pills — Flutter medication reminders. Visit takeyourpills.app." width="32%" /></a>
   <a href="https://github.com/alejandr0pg/incident-status-portal"><img src="assets/featured-incident.svg" alt="Incident Portal — incidents, audit logs and a status API. NestJS, Next.js and AWS." width="32%" /></a>
 </p>
 
